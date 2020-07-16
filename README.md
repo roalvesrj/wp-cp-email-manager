@@ -12,7 +12,7 @@
 
 
 <h2>Description</h2>
-Manage your cPanel email accounts right from your Wordpress dashboard.<br><br>
+Manage your cPanel email accounts right from your WordPress Dashboard.<br><br>
 
 <a href="http://www.cpanel.net/">cPanel®</a> is a web hosting management software with a web interface.
 
